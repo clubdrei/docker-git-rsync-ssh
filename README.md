@@ -1,2 +1,2 @@
-# docker-rsync-ssh
-Docker image with rsync and ssh (client) installed
+# docker-gitrsync-ssh
+Docker image with git, rsync and ssh (client) installed
